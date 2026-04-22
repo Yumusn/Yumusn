@@ -27,14 +27,6 @@ C, C#, PHP, HTML5, CSS, Kotlin
 
 ---
 
-## 📈 GitHub Stats
-
-![Yunus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumusn&show_icons=true&theme=tokyonight)        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumusn&layout=compact&theme=tokyonight)
-
-
-
----
-
 ## 🌱 Currently Learning
 
 - Python for Data Science & ML
