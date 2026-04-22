@@ -18,12 +18,7 @@ creativity, and I'm always eager to learn new technologies.
 ## 🛠️ Tech Stack
 
 **Languages:**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+C, C#, PHP, HTML5, CSS, Kotlin
 
 **Interests:**
 - 🤖 Artificial Intelligence & Machine Learning
